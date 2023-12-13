@@ -1,4 +1,16 @@
 /*
+Written by Adrian Garnham
+Adapted from too many sources to list
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
 This sketch combines servo turnout control, sensor inputs and other outputs for arduino mega
 Pins 0, 1 and 2 are protected since these are used for communication if using Auto485
 Pin 13 is the Arduino LED pin and should not be used as an input, but can be used as an output for some applications
