@@ -1,4 +1,16 @@
 /*
+Written by Adrian Garnham
+Adapted from too many sources to list
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
 This sketch is for controlling servo's, LED's, inputs(ie sensors) and outputs(ie relays, stepper motors etc)
 Operates up to 16 servos at defineable speeds taking the close (Close - 0) and throw (Throw - 1) commands from JMRI.
 PCA9685 board 1 is for servo's
